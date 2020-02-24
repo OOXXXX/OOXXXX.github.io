@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.65.3" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>编程&nbsp;&ndash;&nbsp;Home Page</title><link rel="stylesheet" href="/css/core.min.fe2b29f1b748128d89490112b7b9f68450ac9b787eeb7b553151265fca658ac741fad88addb26c89ebb08520c745d462.css" integrity="sha384-/isp8bdIEo2JSQESt7n2hFCsm3h&#43;63tVMVEmX8plisdB&#43;tiK3bJsieuwhSDHRdRi"><body>
+    <div class="base-body"><section id="header" class="site header">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/"><span class="site name">Home Page</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/tags/">Tags</a><a class="nav item" href="/about">About</a><a class="nav item" href="https://gohugo.io/"target="_blank">Hugo</a></nav></div></span></div></section><div id="content"><section class="article header">
+    <h1 class="article title">编程</h1><p class="article date">Tuesday, July 30, 2019</p></section><article class="article markdown-body"><p><img class="cover" src="https://s2.ax1x.com/2019/07/30/eGfTtf.jpg" alt></p><p><strong>July 30,2019</strong></p>
+<p>明天就要去北京中科院参加python的编程课，要在那里呆上4天，虽说人生地不熟，但想想还是比较期待的。正好最近也在研究一些python的项目，比如说如何用python来绘制图表，如何用python来搭建一个微信机器人等等&hellip;当然在中科院，我要学习的主要是使用python来解决一系列的数学问题。</p>
+<p>从我以上列出的一系列python的用途（当然还有其他），就可见python这门编程语言的使用广泛性。除此之外，python还是一个特别<strong>简洁</strong>的语言，它的<strong>可读性极强</strong>。因此，很多初学者往往通过学习python来入门编程。下面，我就来基本的介绍一下python的环境搭建以及写一个基础的 <code>Hello world.py</code></p>
+<hr>
+<p>首先，你需要登上python的<a href="https://www.python.org"target="_blank">官方网站</a>下载python所需的IDLE以及Launcher，具体下载地址<a href="https://www.python.org/downloads/"target="_blank">点击此处</a> 选择操作系统后下载即可。</p>
+<p>下载完成会看见这样几个文件
+<a target="_blank" rel="noopener noreferrer" 
+  href="https://s2.ax1x.com/2019/07/30/eGIHVs.png"><img  src="https://s2.ax1x.com/2019/07/30/eGIHVs.png"
+        alt="avatar"/></a></p>
+<p>IDLE 是一个纯 Python 下自带的简洁的集成开发环境(IDE)。所以，你现在就可以打开IDLE，来完成自己的第一个python项目，但我们是<strong>极力不推荐这种做法的</strong>。首先，IDE是主要是一个极简的python开发的集合环境，如果你只想随便用用python，那你可以使用IDE。但如果执行一些复杂的任务时，IDE会显得非常<strong>薄弱</strong>。详情请见 <a href="https://docs.python.org/3/library/idle.html"target="_blank">IDE官方文档</a></p>
+<p>Python launcher是一个实用的终端组件，可帮助您<strong>定位和执行不同的 Python 版本</strong>。它允许脚本（或命令行）为特定的 Python 版本指示首选项，定位并执行该版本。
+不同于 PATH 变量，<strong>Python Launcher 将正确选择最合适的 Python 版本</strong>。它更喜欢每个用户在系统范围内的安装，并且运行指定的 Python 版本，而不是使用最近安装的版本。详情请见<a href="https://www.python.org/dev/peps/pep-0397/"target="_blank">Launcher官方文档</a></p>
+<p>抛开上面的不谈，现在我们要做的，是寻找一个<strong>又美观又强大的编译器</strong>。这时候，微软旗下的<a href="https://code.visualstudio.com"target="_blank">Vscode</a>和Jetbrain旗下的python编译器<a href="http://www.jetbrains.com/pycharm/?fromMenu"target="_blank">Pycharm</a>都是很好的选择。就个人来说，Vscode的<strong>拓展性更强，拥有许多插件以及跨平台的能力</strong>。
+<a target="_blank" rel="noopener noreferrer" 
+  href="https://s2.ax1x.com/2019/07/30/eGLAJA.png"><img  src="https://s2.ax1x.com/2019/07/30/eGLAJA.png"
+        alt="avatar"/></a>
+而另一方面，Pycharm的<strong>集成度更高，专业性更强，且不需要过多的配置</strong>。
+<a target="_blank" rel="noopener noreferrer" 
+  href="https://s2.ax1x.com/2019/07/30/eGLaeU.png"><img  src="https://s2.ax1x.com/2019/07/30/eGLaeU.png"
+        alt="avatar"/></a>
+但是由于我更偏爱Vscode的扁平化界面设计，所以下面的指导<strong>都是基于Vscode</strong>来的。喜欢Pycharm的同学可以自行浏览官方文档来配置。</p>
+<hr>
+<p>在官网下载完Vscode后，打开编译器，下面我来介绍一下左边5个图标点击进去分别的用途。
+首先，点击第一个文档图标，这即是整个编译器最核心的部分，<strong>编辑文档</strong>的区域。</p>
+<p>第二个搜索图标，顾名思义，是基于文档而来的搜索功能，可以<strong>搜索并替换文档中的一些内容</strong>。</p>
+<p>第三个图标，是用来进行<strong>版本控制的工具</strong>，它可以将本地文件上传至代码托管网站例如GitHub，Gitlab等等，有感兴趣的可以进一步了解<a href="https://git-scm.com"target="_blank">Git</a></p>
+<p>第四个图标，是进行调试(Debug)的工具，你可以在一个<strong>程序报错之后</strong>进行单步的调试，从而找出错误所在。</p>
+<p>第五个图标，点开是也是一个搜索栏，但这是Vscode的一个非常优秀的功能之一，它可以使用户<strong>根据需求安装一定的程序拓展</strong>。</p>
+<p>另外，Vscode还拥有许多漂亮美观的主题，具体也可以参考<a href="https://code.visualstudio.com/docs/getstarted/themes"target="_blank">官方主题文档</a>进行主题的配置。</p>
+<blockquote>
+<p>From my perspective</p>
+<strong>好看 永远是第一生产力</strong></p>
+</blockquote>
+<p>所以，赶紧挑选一个自己喜欢的Vscode主题吧！</p>
+<p><a target="_blank" rel="noopener noreferrer" 
+  href="https://s2.ax1x.com/2019/07/30/eJpssA.png"><img  src="https://s2.ax1x.com/2019/07/30/eJpssA.png"
+        alt="avatar"/></a></p>
+<hr>
+<p>现在，由于我们要编写的是python文档，需要在Vscode中<strong>安装有关插件</strong>。首先<strong>点击第五个图标</strong>，在搜索栏输入python。可以看到，排名前两位的插件我们点击安装(install)即可。
+<a target="_blank" rel="noopener noreferrer" 
+  href="https://s2.ax1x.com/2019/07/30/eJCPXj.png"><img  src="https://s2.ax1x.com/2019/07/30/eJCPXj.png"
+        alt="avatar"/></a></p>
+<p>安装完成，我们可以在桌面或者别的地方新建一个空文件夹，这里面要放的就是马上在Vscode里编写的文件。之后，我们打开Vscode，点击第一个图标，然后点击打开文件夹(Open the folder)。打开以后是一个<strong>空文件夹</strong>，因此我们需要<strong>新建一个文件</strong>。</p>
+<blockquote>
+<blockquote>
+<p>文件名需要以<code>.py</code>结尾</p>
+</blockquote>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer" 
+  href="https://s2.ax1x.com/2019/07/30/eJn61I.png"><img  src="https://s2.ax1x.com/2019/07/30/eJn61I.png"
+        alt="avatar"/></a>
+接下来，我们还剩最后一件事就可以开始编写代码了，那就是我们需要<strong>选择一个python编译版本(Select Interpreter)</strong>。按下<code>Shift + Command + P</code>或者在菜单栏找到<code>View-Command Palette</code> 打开，输入</p>
+<div class="highlight"><pre class="chroma"><code class="language-py" data-lang="py"><span class="n">python</span><span class="p">:</span> <span class="n">select</span> <span class="n">interpreter</span>
+</code></pre></div><p>然后点开，选择python的版本。</p>
+<blockquote>
+<blockquote>
+</blockquote>
+</blockquote>
+<p>这里的版本默认是2.7,但<strong>建议选择3.7版本</strong>。</p>
+<p><a target="_blank" rel="noopener noreferrer" 
+  href="https://s2.ax1x.com/2019/07/30/eJQu8J.png"><img  src="https://s2.ax1x.com/2019/07/30/eJQu8J.png"
+        alt="avatar"/></a>
+选择完成，可以看到<strong>左边多出一个.vscode的隐藏文件</strong>。这就说明目前的工作都已全部完成，终于可以愉快的编写代码辽👨‍💻</p>
+<hr>
+<p>OK 现在我们尝试一个最简单的python语法。打开<code>xxx.py</code>文件，向其中输入</p>
+<div class="highlight"><pre class="chroma"><code class="language-py" data-lang="py"><span class="k">print</span> <span class="p">(</span><span class="s2">&#34;Hello world!&#34;</span><span class="p">)</span>
+</code></pre></div><p>然后鼠标停留在左边的python文件上，右键选择<code>Run Python File in Terminal</code>，之后便能<strong>看到如下情景</strong>。
+<a target="_blank" rel="noopener noreferrer" 
+  href="https://s2.ax1x.com/2019/07/30/eJ1Q76.png"><img  src="https://s2.ax1x.com/2019/07/30/eJ1Q76.png"
+        alt="avatar"/></a>
+这就说明，我们终于大功告成了，给自己鼓掌庆祝一下吧🥳</p>
+<hr>
+<p>如果在配置中有什么问题，欢迎在博客下面评论，我一定会尽力帮你们解决问题的。
+之后，我还会更新在中科院学习的python项目，欢迎大家持续关注哦😉</p>
+<section class="article labels"><a class="tag" href=/tags/tool/>tool</a></section></article><section class="article navigation"><p><a class="link" href="/posts/%E6%8A%B5%E4%BA%AC/"><span class="li">&larr;</span>抵京</a></p><p><a class="link" href="/posts/%E6%97%A0%E9%A2%98/"><span class="li">&rarr;</span>无题</a></p></section></div><section id="footer" class="footer"><div class="footer-wrap">
+    <p class="copyright">©2020 OOXXXX.</p>
+    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
+        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
+        target="_blank">Notepadium</a></p>
+</div></section></div>
+</body>
+
+</html>
