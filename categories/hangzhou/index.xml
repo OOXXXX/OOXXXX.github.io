@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hangzhou on Home Page</title>
+    <link>/categories/hangzhou/</link>
+    <description>Recent content in Hangzhou on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2020 Patrick Zhu™️</copyright>
+    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="/categories/hangzhou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>杭州</title>
+      <link>/posts/%E6%9D%AD%E5%B7%9E/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/%E6%9D%AD%E5%B7%9E/</guid>
+      <description>2019年10月2日 这是我我第二次来到杭州。 依稀记得小学来第一次来这里，和母亲两个人，也是国庆节，妄想着漫步西湖畔。两个人还租了一个自行车，</description>
+    </item>
+    
+  </channel>
+</rss>

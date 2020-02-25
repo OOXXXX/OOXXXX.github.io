@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Home Page</title>
+    <link>/categories/development/</link>
+    <description>Recent content in Development on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2020 Patrick Zhu™️</copyright>
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>色采</title>
+      <link>/posts/%E8%89%B2%E9%87%87/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/%E8%89%B2%E9%87%87/</guid>
+      <description>距离上一次更博已经10天过去了，我从北京到南京再到上海，已然是收心复习准备开学了。考虑到还有一些东西相与大家分享，我打算在这仅剩的几天里再更</description>
+    </item>
+    
+    <item>
+      <title>离京</title>
+      <link>/posts/%E7%A6%BB%E4%BA%AC/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/%E7%A6%BB%E4%BA%AC/</guid>
+      <description>哪怕有再多的挑战，哪怕有再多的不满，一切都结束了，我终于要离开这个说不清是好还是坏的北京城了。 听着伍佰的再度重相逢，眼前却浮现的是5天前的场</description>
+    </item>
+    
+    <item>
+      <title>编程</title>
+      <link>/posts/%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/%E7%BC%96%E7%A8%8B/</guid>
+      <description>July 30,2019 明天就要去北京中科院参加python的编程课，要在那里呆上4天，虽说人生地不熟，但想想还是比较期待的。正好最近也在研究一些python的</description>
+    </item>
+    
+    <item>
+      <title>无题</title>
+      <link>/posts/%E6%97%A0%E9%A2%98/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/%E6%97%A0%E9%A2%98/</guid>
+      <description>July 28,2019 12:00 开始部署VuePress 13:15 完成本地服务器打开 14:00 修改了基本设置 18:00 成功部署本地html文件至GitHub July 29,2019 11:00 成功添加了博客的评论功能，借</description>
+    </item>
+    
+  </channel>
+</rss>

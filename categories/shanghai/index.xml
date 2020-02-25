@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shanghai on Home Page</title>
+    <link>/categories/shanghai/</link>
+    <description>Recent content in Shanghai on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2020 Patrick Zhu™️</copyright>
+    <lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="/categories/shanghai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>无题</title>
+      <link>/posts/%E6%97%A0%E9%A2%98/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/%E6%97%A0%E9%A2%98/</guid>
+      <description>July 28,2019 12:00 开始部署VuePress 13:15 完成本地服务器打开 14:00 修改了基本设置 18:00 成功部署本地html文件至GitHub July 29,2019 11:00 成功添加了博客的评论功能，借</description>
+    </item>
+    
+    <item>
+      <title>沉思</title>
+      <link>/posts/%E6%B2%89%E6%80%9D/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/%E6%B2%89%E6%80%9D/</guid>
+      <description>晚上一个人在床上 无意之间看到一篇文章 看到一大半觉得这不过是在叙述一个艰难人生罢了 可在故事即将结束的时候 我的心中突然产生了一丝共鸣… 学会隐藏 学</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fragment on Home Page</title>
+    <title>Fragment on Home Page</title>
     <link>/tags/fragment/</link>
-    <description>Recent content in fragment on Home Page</description>
+    <description>Recent content in Fragment on Home Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>©2020 Patrick Zhu™️</copyright>
-    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/fragment/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sample</title>
+      <link>/posts/hugo/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hugo/</guid>
+      <description>   </description>
+    </item>
     
     <item>
       <title>2019最后的夜晚</title>
@@ -40,21 +49,21 @@
     </item>
     
     <item>
-      <title>离京</title>
-      <link>/posts/%E7%A6%BB%E4%BA%AC/</link>
-      <pubDate>Mon, 05 Aug 2019 00:00:00 +0800</pubDate>
-      
-      <guid>/posts/%E7%A6%BB%E4%BA%AC/</guid>
-      <description>哪怕有再多的挑战，哪怕有再多的不满，一切都结束了，我终于要离开这个说不清是好还是坏的北京城了。 听着伍佰的再度重相逢，眼前却浮现的是5天前的场</description>
-    </item>
-    
-    <item>
       <title>抵京</title>
       <link>/posts/%E6%8A%B5%E4%BA%AC/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0800</pubDate>
       
       <guid>/posts/%E6%8A%B5%E4%BA%AC/</guid>
       <description>本文所有用到的文档都在我的GitHub个人仓库开源，可以点击这里查看。 August 1 不知不觉，7月的日子已成过去，接踵而至的，则是依旧炎热的8月。 就在</description>
+    </item>
+    
+    <item>
+      <title>无题</title>
+      <link>/posts/%E6%97%A0%E9%A2%98/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/%E6%97%A0%E9%A2%98/</guid>
+      <description>July 28,2019 12:00 开始部署VuePress 13:15 完成本地服务器打开 14:00 修改了基本设置 18:00 成功部署本地html文件至GitHub July 29,2019 11:00 成功添加了博客的评论功能，借</description>
     </item>
     
     <item>
