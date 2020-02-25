@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home Page</title>
+    <title> </title>
     <link>/</link>
-    <description>Recent content on Home Page</description>
+    <description>Recent content on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>©2020 Patrick Zhu™️</copyright>
@@ -27,7 +27,7 @@
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>你们好，欢迎来我的博客 我是Patrick,现在16岁了，就读于上海光华剑桥，是一名准高中生 暑假用两天时间建成了一个属于自己的网站 虽然之中遇到</description>
+      <description>你们好，欢迎来我的博客 我是Patrick, 现在16岁了，就读于上海光华剑桥, 是一名高中生 暑假用两天时间建成了一个属于自己的网站 虽然之中遇到了</description>
     </item>
     
   </channel>
